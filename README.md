@@ -1,4 +1,4 @@
-# Real-Time AI Vision Analysis
+# Real-Time AI Vision Analysis with SmolVLM
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
