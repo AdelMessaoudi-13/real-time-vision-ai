@@ -17,8 +17,7 @@
   <img src="./realtime_vision_demo.png" alt="Demo" width="900"/>
 </p>
 
-A web-based application that performs real-time AI vision analysis using your webcam or iPhone/smartphone camera.  
-It describes the scene captured by the selected camera in real time using **SmolVLM**.
+A web-based application that performs real-time AI vision analysis using your webcam or iPhone/smartphone camera. It describes the scene captured by the selected camera in real time using **SmolVLM**.
 
 
 ## Features
