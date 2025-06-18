@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
-  <a href="https://huggingface.co/spaces/AdelMessaoudi-13">
-    <img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-orange?logo=huggingface" alt="Live Demo on Hugging Face"/>
+  <a href="https://huggingface.co/AdelMessaoudi-13">
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface" alt="Hugging Face Profile"/>
   </a>
   <a href="https://github.com/AdelMessaoudi-13">
     <img src="https://img.shields.io/badge/GitHub-AdelMessaoudi--13-black?logo=github" alt="GitHub"/>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./realtime_vison_demo.png" alt="Demo Screenshot" width="720"/>
+  <img src="./realtime_vision_demo.png" alt="Demo Screenshot" width="720"/>
 </p>
 
 A web-based application that performs real-time AI vision analysis using your webcam or iPhone/smartphone camera.  
