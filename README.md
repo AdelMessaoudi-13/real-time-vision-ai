@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./realtime_vision_demo.png" alt="Demo Screenshot" width="720"/>
+  <img src="./realtime_vision_demo.png" alt="Demo" width="900"/>
 </p>
 
 A web-based application that performs real-time AI vision analysis using your webcam or iPhone/smartphone camera.  
