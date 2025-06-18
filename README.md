@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
   <a href="https://huggingface.co/AdelMessaoudi-13">
-    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface" alt="Hugging Face Profile"/>
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface" alt="Hugging Face Space"/>
   </a>
   <a href="https://github.com/AdelMessaoudi-13">
     <img src="https://img.shields.io/badge/GitHub-AdelMessaoudi--13-black?logo=github" alt="GitHub"/>
