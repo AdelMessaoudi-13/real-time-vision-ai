@@ -1,4 +1,4 @@
-# Real-Time Vision Analysis with SmolVLM
+# Real-Time AI Vision Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
@@ -22,11 +22,10 @@ A web-based application that performs real-time AI vision analysis using your we
 
 ## Features
 
-- 🎥 Automatic camera detection and selection (webcam, iPhone camera...)  
-- 🤖 Real-time AI scene description using **SmolVLM**  
-- 📷 Switchable multiple camera support  
+- 🎥 Automatic camera detection (webcam, iPhone camera...)  
+- 🤖 Real-time AI description using **SmolVLM**  
+- 📷 Switchable multiple camera support
 - ⚡ Customizable update frequency (from **500ms** to **10s**)  
-- 📊 Response time display for each frame analyzed  
 
 ## Setup & Usage
 
