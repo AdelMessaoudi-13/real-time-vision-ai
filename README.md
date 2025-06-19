@@ -17,12 +17,18 @@
   <img src="./realtime_vision_demo.png" alt="Demo" width="900"/>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=9h5AHOrM_zo" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?logo=youtube&style=for-the-badge" alt="Watch Demo on YouTube">
+  </a>
+</p>
+
 A web-based application that performs real-time AI vision analysis using your webcam or iPhone/smartphone camera. It describes the scene captured by the selected camera in real time using **SmolVLM**.
 
 
 ## Features
 
-- 🎥 Automatic camera detection (webcam, iPhone camera...)  
+- 🎥 Automatic camera detection (webcam, iPhone camera, etc.)  
 - 🤖 Real-time AI description using **SmolVLM**  
 - 📷 Switchable multiple camera support
 - ⚡ Customizable update frequency (from **500ms** to **10s**)  
