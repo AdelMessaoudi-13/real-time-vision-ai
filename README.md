@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=9h5AHOrM_zo" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?logo=youtube&style=for-the-badge" alt="Watch Demo on YouTube">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?logo=youtube&style=for-the-badge" alt="Watch Demo on YouTube"/>
   </a>
 </p>
 
