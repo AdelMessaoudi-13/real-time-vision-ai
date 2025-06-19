@@ -1,8 +1,12 @@
 # Ignore the "old" folder
 old/
 
+# Ignore the local HTML interface for the virtual machine
+realtime_vision_VM.html
+
 # Ignore the demo video
 realtime_vision_demo.mov
+realtime_vision_demo.mp4
 
 # Ignore macOS-specific files
 .DS_Store
